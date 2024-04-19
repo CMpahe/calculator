@@ -12,6 +12,7 @@ button {
     border: 0;
     height: 3rem;
     width: 3rem;
+    max-width: 3rem;
     border-radius: 50px;
     font-size: 2rem;
     color: white;
@@ -20,7 +21,6 @@ button {
 
 #calculator {
     background-color: rgb(27, 27, 27);
-    width: fit-content;
     max-width: 250px;
     display: flex;
     flex-direction: column;
