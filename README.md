@@ -1,5 +1,5 @@
-Calculator
-¿Qué es?
+# Calculator
+### ¿Qué es?
 
 Calculator es un pequeño proyecto realizado con propositos educativos para poner en practica la aplicación de los lenguajes HTML, CSS y JAVASCRIPT en conjunto y comprender como se complementan para desarrollar interfaces funcionales en la web.
 
