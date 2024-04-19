@@ -20,7 +20,6 @@ button {
 }
 
 #calculator {
-    background-color: rgb(27, 27, 27);
     max-width: 250px;
     display: flex;
     flex-direction: column;
